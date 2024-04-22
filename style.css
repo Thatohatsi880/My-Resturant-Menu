@@ -173,4 +173,8 @@
       padding: 0;
       text-align: center;
     }
+
+    .mb-5{
+      color: black !important;
+    }
   }
